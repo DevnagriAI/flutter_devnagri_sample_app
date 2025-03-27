@@ -1,0 +1,124 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Greetings, Sun!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "title": "Explore the Washroom!",
+  "@title": {
+    "description": "The title displayed on the main screen"
+  },
+  "puppy": "Puppy's papa",
+  "@puppy": {
+    "description": "A small, playful domesticated carnivorous mammal"
+  },
+  "spicyYetSweet": "Spicy {userName} yet sweet!",
+  "@spicyYetSweet": {
+    "description": "A message with a single parameter",
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Bob"
+      }
+    }
+  },
+  "dogs": "{countless, plural, =0{No dog's tail around} =1{1 playful pup} other{{countless} furry friends}}",
+  "@dogs": {
+    "description": "A plural message indicating the number of dogs",
+    "placeholders": {
+      "countless": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "nElephants": "{county, plural, =0{No elephant's tail spotted} =1{1 majestic elephant trunk spotted} other{{county} giants roaming free!}}",
+  "@nElephants": {
+    "description": "A plural message indicating the number of elephants",
+    "placeholders": {
+      "county": {
+        "type": "num",
+        "example": "3"
+      }
+    }
+  },
+
+  "multipurposeApp": "Multipurpose App",
+  "welcomeAboard": "Welcome aboard, Captain! Prepare to set sail.",
+  "settings": "Settings",
+  "animals": "Animals",
+  "vehicle": "Vehicle",
+  "number": "Number",
+  "lion": "Lion",
+  "elephant": "Elephant",
+  "tiger": "Tiger",
+  "zebra": "Zebra",
+  "bear": "Bear",
+  "gorilla": "Gorilla",
+  "chimpanzee": "Chimpanzee",
+  "orangutan": "Orangutan",
+  "rhinoceros": "Rhinoceros",
+  "hippopotamus": "Hippopotamus",
+  "giraffe": "Giraffe",
+  "camel": "Camel",
+  "kangaroo": "Kangaroo",
+  "koala": "Koala",
+  "panda": "Panda",
+  "wolf": "Wolf",
+  "fox": "Fox",
+  "rabbit": "Rabbit",
+  "deer": "Deer",
+  "snake": "Snake",
+  "crocodile": "Crocodile",
+  "turtle": "Turtle",
+  "owl": "Owl",
+  "eagle": "Eagle",
+  "parrot": "Parrot",
+  "penguin": "Penguin",
+  "dolphin": "Dolphin",
+  "whale": "Whale",
+  "shark": "Shark",
+  "fish": "Fish",
+  "butterfly": "Butterfly",
+  "randomAnimals": "Random Animals",
+  "one": "one",
+  "two": "two",
+  "three": "three",
+  "four": "four",
+  "five": "five",
+  "six": "six",
+  "seven": "seven",
+  "eight": "eight",
+  "nine": "nine",
+  "ten": "ten",
+  "eleven": "eleven",
+  "twelve": "twelve",
+  "thirteen": "thirteen",
+  "fourteen": "fourteen",
+  "fifteen": "fifteen",
+  "sixteen": "sixteen",
+  "seventeen": "seventeen",
+  "eighteen": "eighteen",
+  "nineteen": "nineteen",
+  "twenty": "twenty",
+  "twentyOne": "twenty-one",
+  "twentyTwo": "twenty-two",
+  "twentyThree": "twenty-three",
+  "twentyFour": "twenty-four",
+  "twentyFive": "twenty-five",
+  "twentySix": "twenty-six",
+  "twentySeven": "twenty-seven",
+  "twentyEight": "twenty-eight",
+  "twentyNine": "twenty-nine",
+  "thirty": "thirty",
+  "car": "car",
+  "airplane": "airplane",
+  "motorcycle": "motorcycle",
+  "bus": "bus",
+  "train": "train",
+  "truck": "truck",
+  "scooter": "scooter",
+  "motorWithBoat": "motor and boat",
+  "ship": "ship\nboat",
+  "numbers": "Numbers"
+}
